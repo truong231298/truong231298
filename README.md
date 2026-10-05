@@ -5,7 +5,7 @@ My name is TRUONG PHAN. I am a student of FPT Aptech Ho Chi Minh. I am intereste
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/phan-truong-6b9a83134/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/truong231298)
 
 
-<a href="https://github.com/vietnh1009/QuickDraw/">
+<a href="https://github.com/truong231298/QuickDraw">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
 </a>    
