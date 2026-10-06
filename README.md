@@ -9,7 +9,7 @@ My name is TRUONG PHAN. I am a student of FPT Aptech Ho Chi Minh. I am intereste
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
 </a>    
-<a href="https://github.com/vietnh1009/ASCII-generator/">
+<a href="https://github.com/truong231298/ascii-vision">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
 </a>
